@@ -11,12 +11,12 @@ export const memberships = [
     },
     {
         id: 3,
-        organization: "Indian Radiological & Imaging Association (IRIA)",
-        role: "2019- Present"
+        organization: "SVIR",
+        role: "2022-Present."
     },
     {
         id: 4,
-        organization: "SVIR",
-        role: "2022-Present."
+        organization: "Indian Radiological & Imaging Association (IRIA)",
+        role: "2019- Present"
     }
 ];
