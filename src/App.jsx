@@ -6,6 +6,7 @@ import { lazy, Suspense } from 'react';
 const About = lazy(() => import('./components/About'));
 const Procedures = lazy(() => import('./components/Procedures'));
 const Education = lazy(() => import('./components/Education'));
+const Memberships = lazy(() => import('./components/Memberships'));
 const Publications = lazy(() => import('./components/Publications'));
 const Testimonials = lazy(() => import('./components/Testimonials'));
 const Contact = lazy(() => import('./components/Contact'));
@@ -24,6 +25,7 @@ function App() {
           <About />
           <Procedures />
           <Education />
+          <Memberships />
           <Publications />
           <Testimonials />
           <Contact />

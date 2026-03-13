@@ -1,23 +1,55 @@
 export const education = [
     {
         id: 1,
-        degree: "Fellowship in Interventional Radiology",
-        institution: "Top Medical Institute, India",
-        year: "2018 - 2019",
-        details: "Advanced training in vascular and non-vascular minimally invasive procedures."
+        degree: " M.B.B.S",
+        institution: "M.S. University,Baroda, Gujarat",
+        year: "August 2005-March 2010",
+        details: ""
     },
     {
         id: 2,
-        degree: "MD in Radiodiagnosis",
-        institution: "Government Medical College",
-        year: "2014 - 2017",
-        details: "Specialized focus on advanced imaging modalities and image-guided interventions."
+        degree: "Internship ",
+        institution: "B. J. Medical College, Ahmedabad M.S. University, Baroda, Gujarat",
+        year: "April 2010 March 2011",
+        details: ""
     },
     {
         id: 3,
-        degree: "MBBS",
-        institution: "Premier Medical University, India",
-        year: "2008 - 2013",
-        details: "Foundation in clinical medicine and patient care."
-    }
+        degree: "Graduate/Medical School",
+        institution: "Baroda Government Medical College, Baroda, Gujarat",
+        year: "August 2005-March 2010",
+        details: ""
+    },
+
+    {
+        id: 4,
+        degree: "Residency",
+        institution: "P.D.U. Government Medical College, Rajkot. Gujarat",
+        year: "May 2015 May 2018",
+        details: ""
+    },
+
+    {
+        id: 5,
+        degree: "Fellow of Intervention Neuroradiology ",
+        institution: " KEM hospital, Mumbai",
+        year: "April 2019-Oct 2020",
+        details: ""
+    },
+
+    {
+        id: 6,
+        degree: "Senior resident at Intervention Radiology ",
+        institution: "Tata Memorial Hospital, Mumbai",
+        year: "Nov 2020-August 2021",
+        details: ""
+    },
+
+    {
+        id: 7,
+        degree: "Associate as Intervention Radiologist (With Dr Bhavesh Popat) ",
+        institution: "At Hinduja, Symbiosis, Wockhardt, Raheja-Fortis, Saifee, Wadia pediatric hospital",
+        year: " Aug 2021-Oct 2021",
+        details: ""
+    },
 ];
